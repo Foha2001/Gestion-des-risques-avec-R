@@ -1,4 +1,4 @@
-###########<getion des risques avec R book############################
+###########<getion des risques avec R book  ############################
 normale #
 x <- seq(-4,4, length=1000)
 hx <- dnorm(x,mean=0, sd=1)
